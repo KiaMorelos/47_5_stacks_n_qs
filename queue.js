@@ -1,4 +1,4 @@
-//BASED ON SOLUTION, SEE COMMENTS
+//BASED ON SOLUTION and demos, SEE COMMENTS
 /** Node: node for a queue. */
 
 class Node {

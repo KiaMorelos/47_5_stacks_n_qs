@@ -1,3 +1,5 @@
+//Based on what I learned from demos
+
 /** Stack: where you can
  *  remove from the top or add to the top. */
 
